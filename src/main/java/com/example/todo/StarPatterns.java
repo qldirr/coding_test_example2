@@ -438,6 +438,13 @@ public class StarPatterns {
             }
         }
     }
+    /* 예시 출력 (n=5):
+     *       *
+     *   *
+     *
+     *   *
+     *       *
+     */
 
     // 15. 나비 패턴
     public static void butterflyPattern(int n) {
@@ -483,6 +490,17 @@ public class StarPatterns {
         }
         System.out.println("\n");
     }
+    /* 예시 출력 (n=5):
+     *                 *
+     * *             * *
+     * * *         * * *
+     * * * *     * * * *
+     * * * * * * * * * *
+     * * * *     * * * *
+     * * *         * * *
+     * *             * *
+     *                 *
+     */
 }
 
 
