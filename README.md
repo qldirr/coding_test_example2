@@ -10,3 +10,4 @@ TCP 와 UDP[https://mont-blanc.tistory.com/81] <br/>
 
 ---
 ### 백엔드 면접 블로그 정리
+백엔드 및 여러가지 카테고리[https://dev-coco.tistory.com/category/%F0%9F%93%8CETC/Tech%20Interview]
